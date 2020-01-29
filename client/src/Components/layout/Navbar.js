@@ -10,7 +10,7 @@ class Navbar1 extends Component {
           <Navbar.Brand href="/">
           <img
         alt=""
-        src="/assets/jss/images/icon.png"
+        src=""
         width="30"
         height="30"
         className="d-inline-block align-top"
